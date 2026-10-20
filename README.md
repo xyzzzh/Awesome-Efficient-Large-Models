@@ -834,6 +834,7 @@
 | 2025 | LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation | ICLR 2025 | [Link](https://arxiv.org/abs/2408.15881) | [Link](https://github.com/shufangxun/LLaVA-MoD) ![](https://img.shields.io/github/stars/shufangxun/LLaVA-MoD.svg?style=social) |
 | 2025 | VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow Guidance | ICCV 2025 | [Link](https://openreview.net/forum?id=mJbmzMl3I3) | N/A |
 | 2024 | MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer | CVPR 2024 | [Link](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_MADTP_Multimodal_Alignment-Guided_Dynamic_Token_Pruning_for_Accelerating_Vision-Language_Transformer_CVPR_2024_paper.html) | [Link](https://github.com/double125/MADTP) ![](https://img.shields.io/github/stars/double125/MADTP.svg?style=social) |
+| 2026 | Jag: Direct Box Prediction for Efficient Visual Grounding | arXiv 2026 | [Link](https://arxiv.org/abs/2610.13239) | [Link](https://github.com/xyzzzh/Jag) ![](https://img.shields.io/github/stars/xyzzzh/Jag.svg?style=social) |
 
 ---
 
